@@ -5,7 +5,8 @@ I recently did a Data Science course in Scaler- Data Science course- Mastering t
 Project Overview
 This project is a modular Python-based data analysis tool that processes three distinct datasets: student grades, business sales, and weather patterns. It performs statistical analysis and generates visual charts for each data category.
 
-​File Structure
+​File Structure:
+
 ​datasets.py: Contains the raw data for students, sales, and weather stored in Pandas DataFrames.
 ​stats.py: Handles numerical calculations including data summaries, means, standard deviations, and correlation matrices.
 ​charts.py: Manages data visualization using Matplotlib to create bar charts, line graphs, and histograms.
